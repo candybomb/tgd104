@@ -8,3 +8,7 @@ header{
     width: 100px;
     height: 160px;
 }
+
+div{
+    background-color: blue;
+}
